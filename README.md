@@ -4,10 +4,14 @@ This project uses Python and regular expressions to extract structured data from
 
 ## Project structure
 alu_regex-data-extraction-N-Iregi/
-├── regex_functions.py       # The main regex logic
-├── test_cases.py            # Code to test the regex functions
-├── sample_data.txt          # Sample input data (text blob)
-├── README.md                # Project documentation
+
+	├── regex_functions.py       # The main regex logic
+
+	├── test_cases.py            # Code to test the regex functions
+
+	├── sample_data.txt          # Sample input data (text blob)
+
+	├── README.md                # Project documentation
 
 ## Specific types of Data Extracted
 - Email addresses
