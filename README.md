@@ -11,6 +11,7 @@ This project uses Python and regular expressions to extract structured data from
 
 ## Setup
 In your terminal, run the following commands:
+
 	1. git clone https://github.com/N-Iregi/alu_regex-data-extraction-N-Iregi.git
 
 	2. cd alu_regex-data-extraction-N-Iregi.git
