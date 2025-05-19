@@ -2,6 +2,13 @@
 
 This project uses Python and regular expressions to extract structured data from unstructured text.
 
+## Project structure
+alu_regex-data-extraction-N-Iregi/
+├── regex_functions.py       # The main regex logic
+├── test_cases.py            # Code to test the regex functions
+├── sample_data.txt          # Sample input data (text blob)
+├── README.md                # Project documentation
+
 ## Specific types of Data Extracted
 - Email addresses
 - URLs
@@ -16,4 +23,4 @@ In your terminal, run the following commands:
 
 	2. cd alu_regex-data-extraction-N-Iregi.git
 
-	3. python3 test-cases.py(test cases in test-cases.py can be modified)
+	3. python3 test-cases.py
