@@ -1,0 +1,16 @@
+# Normal Cases
+
+Contact me at user@example.com or firstname.lastname@company.co.uk.
+Visit https://www.example.com or https://subdomain.example.org/page for more info.
+Call us at (123) 456-7890, 123-456-7890, or 123.456.7890.
+Credit card numbers: 1234 5678 9012 3456 and 1234-5678-9012-3456.
+Meeting is scheduled at 14:30 and another at 2:30 PM.
+Use hashtags like #example and #ThisIsAHashtag.
+
+# Edge cases
+
+Malformed email: user@@example..com, .starting@dot.com, trailing@dot.com.
+Broken URLs: http:/incomplete.com, ftp://wrong.protocol.org
+Odd phones: (123 456-7890, 1234567890, +1 (123) 456-7890, 4567890
+Fake credit cards: 1234-5678-9012-345X, 1234567890123456, 1234-5678-9012
+Weird times: 25:00, 2:60 PM, 00:00, 12:00 AM, 7:15pm, 7:15 pM
